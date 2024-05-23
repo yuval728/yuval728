@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **yuvalmehta.728@gmail.com**
 
+- 📄 Know about my experiences [[Resume] https://yuval728.github.io/resume/]([Resume] https://yuval728.github.io/resume/)
+
+- ⚡ Fun fact **When I'm not coding or working on machine learning projects, I love staying active and enjoy dancing!🕺**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
