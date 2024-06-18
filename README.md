@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From Noise to Art: Building Your First Generative Adversarial Network](https://dev.to/yuval728/from-noise-to-art-building-your-first-generative-adversarial-network-472o)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
