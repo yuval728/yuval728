@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing GPU Power: Supercharge Your Data Processing with cuDF](https://dev.to/yuval728/unleashing-gpu-power-supercharge-your-data-processing-with-cudf-2232)
 - [From Noise to Art: Building Your First Generative Adversarial Network](https://dev.to/yuval728/from-noise-to-art-building-your-first-generative-adversarial-network-472o)
 <!-- BLOG-POST-LIST:END -->
 
