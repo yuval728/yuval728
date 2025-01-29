@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Evolve Your Machine Learning: Automate the Process of Model Selection through TPOT.](https://dev.to/yuval728/evolve-your-machine-learning-automate-the-process-of-model-selection-through-tpot-4445)
-- [Unleashing GPU Power: Supercharge Your Data Processing with cuDF](https://dev.to/yuval728/unleashing-gpu-power-supercharge-your-data-processing-with-cudf-2232)
-- [From Noise to Art: Building Your First Generative Adversarial Network](https://dev.to/yuval728/from-noise-to-art-building-your-first-generative-adversarial-network-472o)
+- [Evolve Your Machine Learning: Automate the Process of Model Selection through TPOT.](https://forem.com/yuval728/evolve-your-machine-learning-automate-the-process-of-model-selection-through-tpot-4445)
+- [Unleashing GPU Power: Supercharge Your Data Processing with cuDF](https://forem.com/yuval728/unleashing-gpu-power-supercharge-your-data-processing-with-cudf-2232)
+- [From Noise to Art: Building Your First Generative Adversarial Network](https://forem.com/yuval728/from-noise-to-art-building-your-first-generative-adversarial-network-472o)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
