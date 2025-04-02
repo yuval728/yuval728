@@ -19,10 +19,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Scaling ML Models: The Hidden Challenges No One Warned Me About](https://medium.com/@yuvalmehta.728/scaling-ml-models-the-hidden-challenges-no-one-warned-me-about-b45db512ecc3?source=rss-3ec8787f291f------2)
-- [Smarter Diagnostics: How AI is Enhancing Accuracy and Speed in Healthcare](https://medium.com/@yuvalmehta.728/smarter-diagnostics-how-ai-is-enhancing-accuracy-and-speed-in-healthcare-9098cb5b40a4?source=rss-3ec8787f291f------2)
-- [Demystifying Transformer Models: A Deep Dive into NLP’s Revolutionary Architecture and Its…](https://medium.com/@yuvalmehta.728/demystifying-transformer-models-a-deep-dive-into-nlps-revolutionary-architecture-and-its-4c5a60e04c35?source=rss-3ec8787f291f------2)
 - [Evolve Your Machine Learning: Automate the Process of Model Selection through TPOT.](https://dev.to/yuval728/evolve-your-machine-learning-automate-the-process-of-model-selection-through-tpot-4445)
+- [Unleashing GPU Power: Supercharge Your Data Processing with cuDF](https://dev.to/yuval728/unleashing-gpu-power-supercharge-your-data-processing-with-cudf-2232)
+- [From Noise to Art: Building Your First Generative Adversarial Network](https://dev.to/yuval728/from-noise-to-art-building-your-first-generative-adversarial-network-472o)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
