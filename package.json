@@ -7,7 +7,7 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "deploy": "astro build && npx gh-pages -d dist"
+    "deploy": "astro build && touch dist/.nojekyll && npx gh-pages -d dist"
   },
   "dependencies": {
     "@astrojs/mdx": "^2.1.1",
