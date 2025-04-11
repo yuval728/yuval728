@@ -6,7 +6,7 @@ import mdx from '@astrojs/mdx';
 export default defineConfig({
   integrations: [tailwind(), mdx()],
   // adapter: github(),
-  // site: 'https://yuval728.github.io',
-  // base: '/yuval728',
-  output: 'static',
+  site: 'https://yuval728.github.io',
+  base: '/yuval728',
+  // output: 'static',
 });
