@@ -5,7 +5,7 @@ import github from '@astrojs/github';
 
 export default defineConfig({
   integrations: [tailwind(), mdx()],
-  adapter: github(),
-  // site: 'https://yuval728.github.io',
+  // adapter: github(),
+  site: 'https://yuval728.github.io',
   base: '/yuval728',
 });
