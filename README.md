@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Silent Backbone: Why Traditional Machine Learning Still Matters in the AI Era](https://pub.towardsai.net/the-silent-backbone-why-traditional-machine-learning-still-matters-in-the-ai-era-22235586420a?source=rss-3ec8787f291f------2)
 - [The Rise of Intelligent Enterprises: AI at the Heart of Business Strategy](https://pub.towardsai.net/the-rise-of-intelligent-enterprises-ai-at-the-heart-of-business-strategy-ab58276235ba?source=rss-3ec8787f291f------2)
 - [AI-Powered Digital Twins: The Future of Intelligent Systems and Real-World Optimization](https://pub.towardsai.net/ai-powered-digital-twins-the-future-of-intelligent-systems-and-real-world-optimization-aa4f72898773?source=rss-3ec8787f291f------2)
 - [Scaling ML Models: The Hidden Challenges No One Warned Me About](https://medium.com/@yuvalmehta.728/scaling-ml-models-the-hidden-challenges-no-one-warned-me-about-b45db512ecc3?source=rss-3ec8787f291f------2)
-- [Smarter Diagnostics: How AI is Enhancing Accuracy and Speed in Healthcare](https://medium.com/@yuvalmehta.728/smarter-diagnostics-how-ai-is-enhancing-accuracy-and-speed-in-healthcare-9098cb5b40a4?source=rss-3ec8787f291f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
