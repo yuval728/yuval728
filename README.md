@@ -19,10 +19,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Fine-Tuning LLMs in 2025: Techniques, Trade-offs, and Use Cases](https://pub.towardsai.net/fine-tuning-llms-in-2025-techniques-trade-offs-and-use-cases-e0775a03c015?source=rss-3ec8787f291f------2)
-- [Autonomous Horizons: How AI is Steering the Next Generation of Transportation](https://pub.towardsai.net/autonomous-horizons-how-ai-is-steering-the-next-generation-of-transportation-5320b682b90e?source=rss-3ec8787f291f------2)
-- [The Silent Backbone: Why Traditional Machine Learning Still Matters in the AI Era](https://pub.towardsai.net/the-silent-backbone-why-traditional-machine-learning-still-matters-in-the-ai-era-22235586420a?source=rss-3ec8787f291f------2)
-- [The Rise of Intelligent Enterprises: AI at the Heart of Business Strategy](https://pub.towardsai.net/the-rise-of-intelligent-enterprises-ai-at-the-heart-of-business-strategy-ab58276235ba?source=rss-3ec8787f291f------2)
+- [Evolve Your Machine Learning: Automate the Process of Model Selection through TPOT.](https://dev.to/yuval728/evolve-your-machine-learning-automate-the-process-of-model-selection-through-tpot-4445)
+- [Unleashing GPU Power: Supercharge Your Data Processing with cuDF](https://dev.to/yuval728/unleashing-gpu-power-supercharge-your-data-processing-with-cudf-2232)
+- [From Noise to Art: Building Your First Generative Adversarial Network](https://dev.to/yuval728/from-noise-to-art-building-your-first-generative-adversarial-network-472o)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
