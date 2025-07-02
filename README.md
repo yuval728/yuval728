@@ -19,12 +19,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Bulletproof Data Pipelines with PySpark That Actually Scale](https://pub.towardsai.net/how-to-build-bulletproof-data-pipelines-with-pyspark-that-actually-scale-6175ea582594?source=rss-3ec8787f291f------2)
 - [From Pandas to PySpark: My Journey into Big Data Processing](https://pub.towardsai.net/from-pandas-to-pyspark-my-journey-into-big-data-processing-7e1217606d67?source=rss-3ec8787f291f------2)
 - [Why Ethics in AI Matters: Tackling Bias and Building Fair Machine Learning Systems](https://pub.towardsai.net/why-ethics-in-ai-matters-tackling-bias-and-building-fair-machine-learning-systems-9ec1f1a5ffb9?source=rss-3ec8787f291f------2)
 - [Fine-Tuning LLMs in 2025: Techniques, Trade-offs, and Use Cases](https://pub.towardsai.net/fine-tuning-llms-in-2025-techniques-trade-offs-and-use-cases-e0775a03c015?source=rss-3ec8787f291f------2)
 - [Autonomous Horizons: How AI is Steering the Next Generation of Transportation](https://pub.towardsai.net/autonomous-horizons-how-ai-is-steering-the-next-generation-of-transportation-5320b682b90e?source=rss-3ec8787f291f------2)
 - [The Silent Backbone: Why Traditional Machine Learning Still Matters in the AI Era](https://pub.towardsai.net/the-silent-backbone-why-traditional-machine-learning-still-matters-in-the-ai-era-22235586420a?source=rss-3ec8787f291f------2)
-- [The Rise of Intelligent Enterprises: AI at the Heart of Business Strategy](https://pub.towardsai.net/the-rise-of-intelligent-enterprises-ai-at-the-heart-of-business-strategy-ab58276235ba?source=rss-3ec8787f291f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
