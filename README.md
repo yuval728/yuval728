@@ -19,12 +19,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Patterns: The Building Blocks of Reliable AI Agents](https://pub.towardsai.net/agentic-patterns-the-building-blocks-of-reliable-ai-agents-afe2a0b2b556?source=rss-3ec8787f291f------2)
 - [Automating Customer Support with AI: How Smart Bots Are Saving Brands &lpar;and Our Sanity&rpar;](https://pub.towardsai.net/automating-customer-support-with-ai-how-smart-bots-are-saving-brands-and-our-sanity-74ab469ddaf5?source=rss-3ec8787f291f------2)
 - [Machine Learning at Scale: Why PySpark MLlib Still Wins in 2025](https://pub.towardsai.net/machine-learning-at-scale-why-pyspark-mllib-still-wins-in-2025-c91bbba94de5?source=rss-3ec8787f291f------2)
 - [How to Build Bulletproof Data Pipelines with PySpark That Actually Scale](https://pub.towardsai.net/how-to-build-bulletproof-data-pipelines-with-pyspark-that-actually-scale-6175ea582594?source=rss-3ec8787f291f------2)
 - [From Pandas to PySpark: My Journey into Big Data Processing](https://pub.towardsai.net/from-pandas-to-pyspark-my-journey-into-big-data-processing-7e1217606d67?source=rss-3ec8787f291f------2)
 - [Why Ethics in AI Matters: Tackling Bias and Building Fair Machine Learning Systems](https://pub.towardsai.net/why-ethics-in-ai-matters-tackling-bias-and-building-fair-machine-learning-systems-9ec1f1a5ffb9?source=rss-3ec8787f291f------2)
-- [Fine-Tuning LLMs in 2025: Techniques, Trade-offs, and Use Cases](https://pub.towardsai.net/fine-tuning-llms-in-2025-techniques-trade-offs-and-use-cases-e0775a03c015?source=rss-3ec8787f291f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
