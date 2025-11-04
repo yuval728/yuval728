@@ -19,12 +19,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PinSage: How Pinterest Used Graph Neural Networks to Power Billions of Recommendations](https://levelup.gitconnected.com/pinsage-how-pinterest-used-graph-neural-networks-to-power-billions-of-recommendations-0fcb51f31109?source=rss-3ec8787f291f------2)
 - [Reranker vs. Retriever: Who Does What in RAG?](https://levelup.gitconnected.com/reranker-vs-retriever-who-does-what-in-rag-64a27b6e3bc8?source=rss-3ec8787f291f------2)
 - [Why Rerankers Are the Secret Sauce in Modern Retrieval Systems](https://levelup.gitconnected.com/why-rerankers-are-the-secret-sauce-in-modern-retrieval-systems-9e1e4236be82?source=rss-3ec8787f291f------2)
 - [Scaling Laws in AI: Why Bigger Models Work in Research but Break in Production](https://medium.com/data-science-collective/scaling-laws-in-ai-why-bigger-models-work-in-research-but-break-in-production-953fda1fc99f?source=rss-3ec8787f291f------2)
 - [Agentic Patterns: The Building Blocks of Reliable AI Agents](https://pub.towardsai.net/agentic-patterns-the-building-blocks-of-reliable-ai-agents-afe2a0b2b556?source=rss-3ec8787f291f------2)
 - [Automating Customer Support with AI: How Smart Bots Are Saving Brands &lpar;and Our Sanity&rpar;](https://pub.towardsai.net/automating-customer-support-with-ai-how-smart-bots-are-saving-brands-and-our-sanity-74ab469ddaf5?source=rss-3ec8787f291f------2)
-- [Machine Learning at Scale: Why PySpark MLlib Still Wins in 2025](https://pub.towardsai.net/machine-learning-at-scale-why-pyspark-mllib-still-wins-in-2025-c91bbba94de5?source=rss-3ec8787f291f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
