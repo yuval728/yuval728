@@ -19,12 +19,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [LLMOps Is Not MLOps: Why Your LLM Demo Broke in Production &lpar;With Real Examples&rpar;](https://pub.towardsai.net/llmops-is-not-mlops-why-your-llm-demo-broke-in-production-with-real-examples-13c184ecdaf0?source=rss-3ec8787f291f------2)
 - [Context Engineering: The Hidden Power Behind Smarter AI Systems](https://pub.towardsai.net/context-engineering-the-hidden-power-behind-smarter-ai-systems-4b0164cf7cd9?source=rss-3ec8787f291f------2)
 - [RAG: The Backbone of Modern AI Applications — What, Why, How, and the Latest Advancements](https://pub.towardsai.net/rag-the-backbone-of-modern-ai-applications-what-why-how-and-the-latest-advancements-9620f407b2f7?source=rss-3ec8787f291f------2)
 - [PinSage: How Pinterest Used Graph Neural Networks to Power Billions of Recommendations](https://levelup.gitconnected.com/pinsage-how-pinterest-used-graph-neural-networks-to-power-billions-of-recommendations-0fcb51f31109?source=rss-3ec8787f291f------2)
 - [Reranker vs. Retriever: Who Does What in RAG?](https://levelup.gitconnected.com/reranker-vs-retriever-who-does-what-in-rag-64a27b6e3bc8?source=rss-3ec8787f291f------2)
 - [Why Rerankers Are the Secret Sauce in Modern Retrieval Systems](https://levelup.gitconnected.com/why-rerankers-are-the-secret-sauce-in-modern-retrieval-systems-9e1e4236be82?source=rss-3ec8787f291f------2)
-- [Scaling Laws in AI: Why Bigger Models Work in Research but Break in Production](https://medium.com/data-science-collective/scaling-laws-in-ai-why-bigger-models-work-in-research-but-break-in-production-953fda1fc99f?source=rss-3ec8787f291f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
