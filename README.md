@@ -19,12 +19,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Evaluate LLMs When There Is No Ground Truth](https://levelup.gitconnected.com/how-to-evaluate-llms-when-there-is-no-ground-truth-f017d7b4f375?source=rss-3ec8787f291f------2)
 - [Prompt Versioning Is the New Model Versioning](https://levelup.gitconnected.com/prompt-versioning-is-the-new-model-versioning-8d6f2239b685?source=rss-3ec8787f291f------2)
 - [LLMOps Is Not MLOps: Why Your LLM Demo Broke in Production &lpar;With Real Examples&rpar;](https://pub.towardsai.net/llmops-is-not-mlops-why-your-llm-demo-broke-in-production-with-real-examples-13c184ecdaf0?source=rss-3ec8787f291f------2)
 - [Context Engineering: The Hidden Power Behind Smarter AI Systems](https://pub.towardsai.net/context-engineering-the-hidden-power-behind-smarter-ai-systems-4b0164cf7cd9?source=rss-3ec8787f291f------2)
 - [RAG: The Backbone of Modern AI Applications — What, Why, How, and the Latest Advancements](https://pub.towardsai.net/rag-the-backbone-of-modern-ai-applications-what-why-how-and-the-latest-advancements-9620f407b2f7?source=rss-3ec8787f291f------2)
 - [PinSage: How Pinterest Used Graph Neural Networks to Power Billions of Recommendations](https://levelup.gitconnected.com/pinsage-how-pinterest-used-graph-neural-networks-to-power-billions-of-recommendations-0fcb51f31109?source=rss-3ec8787f291f------2)
-- [Reranker vs. Retriever: Who Does What in RAG?](https://levelup.gitconnected.com/reranker-vs-retriever-who-does-what-in-rag-64a27b6e3bc8?source=rss-3ec8787f291f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
