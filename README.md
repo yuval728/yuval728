@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/yuvalmehta728"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@yuvalmehta.728"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
   <a href="https://kaggle.com/yuval728"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
-  <a href="mailto:yuvalmehta.728@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#b9c0cccfd8d5d4dcd1cdd8978e8b81f9ded4d8d0d597dad6d4"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -56,6 +56,7 @@ I'm a **Generative AI Engineer** with hands-on experience building agentic syste
 - 📄 **IEEE InCoWoCo 2025** — *Estimating Ground-Level Air Quality Index from Satellite Imagery*
 - 📄 **IEEE APCIT 2024** — *Examining ML Approaches for Early Diabetes Prediction*
 - 🥇 **Top 1% — Amazon ML Challenge 2024** — Ranked 274th out of 74,824 participants
+- 🎖️ **4th Place — genai.works Hackathon 2025** (July) — with the xLM team
 
 ---
 
@@ -125,5 +126,5 @@ I'm a **Generative AI Engineer** with hands-on experience building agentic syste
 ---
 
 <p align="center">
-  <i>📫 yuvalmehta.728@gmail.com · 🌐 <a href="https://yuval728.github.io/">yuval728.github.io</a></i>
+  <i>📫 yuvalmehta.728@gmail.com · 🌐 <a href="[https://yuval-mehta.vercel.app/](https://yuval-mehta.vercel.app/)">yuval-mehta.vercel.app</a></i>
 </p>
