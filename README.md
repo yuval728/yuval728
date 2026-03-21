@@ -126,5 +126,5 @@ I'm a **Generative AI Engineer** with hands-on experience building agentic syste
 ---
 
 <p align="center">
-  <i>📫 yuvalmehta.728@gmail.com · 🌐 <a href="[https://yuval-mehta.vercel.app/](https://yuval-mehta.vercel.app/)">yuval-mehta.vercel.app</a></i>
+  <i>📫 yuvalmehta.728@gmail.com · 🌐 <a href="https://yuval-mehta.vercel.app/">yuval-mehta.vercel.app</a></i>
 </p>
