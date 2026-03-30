@@ -39,12 +39,12 @@ I'm a **Generative AI Engineer** with hands-on experience building agentic syste
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Multi-Agent Self-Verification Actually Works &lpar;And Why It Changes Everything for Production AI&rpar;](https://pub.towardsai.net/how-multi-agent-self-verification-actually-works-and-why-it-changes-everything-for-production-ai-71923df63d01?source=rss-3ec8787f291f------2)
 - [Your AI Agent’s Memory Is Broken — And Here’s How to Fix It](https://levelup.gitconnected.com/your-ai-agents-memory-is-broken-and-here-s-how-to-fix-it-006f146b32ab?source=rss-3ec8787f291f------2)
 - [How to Evaluate LLMs When There Is No Ground Truth](https://levelup.gitconnected.com/how-to-evaluate-llms-when-there-is-no-ground-truth-f017d7b4f375?source=rss-3ec8787f291f------2)
 - [Prompt Versioning Is the New Model Versioning](https://levelup.gitconnected.com/prompt-versioning-is-the-new-model-versioning-8d6f2239b685?source=rss-3ec8787f291f------2)
 - [LLMOps Is Not MLOps: Why Your LLM Demo Broke in Production &lpar;With Real Examples&rpar;](https://pub.towardsai.net/llmops-is-not-mlops-why-your-llm-demo-broke-in-production-with-real-examples-13c184ecdaf0?source=rss-3ec8787f291f------2)
 - [Context Engineering: The Hidden Power Behind Smarter AI Systems](https://pub.towardsai.net/context-engineering-the-hidden-power-behind-smarter-ai-systems-4b0164cf7cd9?source=rss-3ec8787f291f------2)
-- [RAG: The Backbone of Modern AI Applications — What, Why, How, and the Latest Advancements](https://pub.towardsai.net/rag-the-backbone-of-modern-ai-applications-what-why-how-and-the-latest-advancements-9620f407b2f7?source=rss-3ec8787f291f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all articles on Medium](https://medium.com/@yuvalmehta.728)
