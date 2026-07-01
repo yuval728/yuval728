@@ -39,12 +39,12 @@ I'm a **Generative AI Engineer** with hands-on experience building agentic syste
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LangGraph Checkpointing Is Not Free: A Production Postmortem](https://pub.towardsai.net/langgraph-checkpointing-is-not-free-a-production-postmortem-398bc86861f4?source=rss-3ec8787f291f------2)
 - [GRPO in Production: The Failure Modes Nobody Writes About](https://levelup.gitconnected.com/grpo-in-production-the-failure-modes-nobody-writes-about-5d59c3fc9c3b?source=rss-3ec8787f291f------2)
 - [Mechanistic Interpretability Is Having Its Moment: What Engineers Actually Need to Know](https://pub.towardsai.net/mechanistic-interpretability-is-having-its-moment-what-engineers-actually-need-to-know-e4421f305f84?source=rss-3ec8787f291f------2)
 - [Reasoning Models Don’t Reason the Way You Think](https://pub.towardsai.net/reasoning-models-dont-reason-the-way-you-think-bcc87f54e42f?source=rss-3ec8787f291f------2)
 - [World Models Explained: The Architecture That Could Replace Transformers](https://pub.towardsai.net/world-models-explained-the-architecture-that-could-replace-transformers-be049336c354?source=rss-3ec8787f291f------2)
 - [The Death of RLHF: A Practitioner’s Guide to the New Post-Training Stack](https://pub.towardsai.net/the-death-of-rlhf-a-practitioners-guide-to-the-new-post-training-stack-84b2ff6d4e74?source=rss-3ec8787f291f------2)
-- [Building ML in the Dark: A Survival Guide for the Solo Practitioner](https://pub.towardsai.net/building-ml-in-the-dark-a-survival-guide-for-the-solo-practitioner-0b42d272f3d8?source=rss-3ec8787f291f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all articles on Medium](https://medium.com/@yuvalmehta.728)
